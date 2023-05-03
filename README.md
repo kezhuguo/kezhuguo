@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 -->
 
 ## Interests, not skills
-Travelling, travelling, travelling, playing outside, biking around, skiing, archery, basketball, watching TV, reading delightful stories, watching cartoon / reading comics, playing keyboards, seeing architectures, eating sweets, environmental protection, hand craft, infinity.
+Travelling, travelling, travelling, playing outside, biking around, skiing, archery, basketball, watching TV, reading delightful stories, watching cartoon / reading comics, playing keyboards, viewing architectures, eating sweets, environmental protection, hand craft, infinity.
 
 <!--
 ## Project
