@@ -1,4 +1,3 @@
-# Kezhu Guo
 ### Hi there 👋
 
 <!--
