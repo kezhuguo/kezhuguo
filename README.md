@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ## Research
 - Interested in and hope to work on the intersection of high energy physics, string theory, cosmology and algebraic topology. 
   Would want to ask how to describe the space and time outside our universe.
-- PhD student @ Northwestern University. Currently working on particle physics research, and actively learning about amplitudes calculation.
+- Currently working on particle physics research, and actively learning about amplitudes calculation.
 <!--
 - (TODO)
 - (TODO)
